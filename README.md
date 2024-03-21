@@ -41,7 +41,7 @@ The [**IHD_imputed_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST
 
 # R code
 
-The folder labeled [**R**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/tree/main/R) contains the code to imputed the missing counts and reproduce all the tables and figures of the paper.
+The folder labeled [**R**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/tree/main/R) contains the code to impute the missing counts and reproduce all the tables and figures of the paper.
 - [Section2A_Figure1.R](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/R/Section2A_Figure1.R): R-script to reproduce Figure 1 of the paper.
 - [Section2B_Imputation_NA_counts.R](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/R/Section2B_Imputation_NA_counts.R): contains the R-code to impute the missing counts.
 - [Section2C_Descriptive_summary.R](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/R/Section2C_Descriptive_summary.R): R code to reproduce the descriptive analysis of the IHD after imputing the missing counts. In particular, the code to reproduce Figures 2 and 3 as well as Table 1 of the paper is shown.
