@@ -36,7 +36,7 @@ The [**IHD_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST_pattern
 The [**IHD_imputed_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/Imputed_data/IHD_imputed_data.Rdata) encompasses the counts dataset after imputing the missing values. Specifically, it contains the following objects:
   - **_counts_**: contains the IHD mortality counts for each year after imputing the missing data.
   - **_pop_**: contains the population for each county in each year.
-  - **_exp_**: contains the expected cases for each county in each year computed using the overall rate in the US in the whole period of study (for details see pag.6 of the paper)
+  - **_exp_**: contains the expected cases for each county in each year computed using the overall rate in the US in the whole period of study (for details see page 6 of the paper)
   - **_carto_**: cartography of the 3105 counties of US.
 
 # R code
