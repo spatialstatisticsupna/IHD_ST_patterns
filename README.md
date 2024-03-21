@@ -59,5 +59,7 @@ Computations were run using R-4.2.1, R-INLA version 22.12.16 (dated 2022-12-23) 
 
 # Acknowledgements
 This work has been supported by Project PID2020-113125RB-I00/ MCIN/ AEI/ 10.13039/501100011033 and by Project UNEDPAM/PI/PR24/05A.
-
 ![image](https://github.com/spatialstatisticsupna/Comparing-R-INLA-and-NIMBLE/blob/main/micin-aei.jpg)
+
+# References
+[Urdangarin, A., Goicoa, T. , Congdon, P. and Ugarte, M.D. (2024). A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021).
