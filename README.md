@@ -4,7 +4,7 @@ This repository contains the R code to reproduce the analysis presented in the p
 ## Table of contents
 
 - [Data](#Data)
-- [Imputed data](#ImputedData)
+- [Imputed data](#Imputed-Data)
 - [R code](#R-code)
 - [References](#References)
 
