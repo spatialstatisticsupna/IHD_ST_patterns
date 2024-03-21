@@ -16,8 +16,8 @@ The IHD annual mortality totals for each county in the US between 1999 and 2021,
 The datasets in [**IHD_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/Data/IHD_data.Rdata) include 3105 counties from all the US states except Alaska and Hawaii. Additionally, Puerto Rico, Samoa, the Dukes and Nantucket islands in Massachusetts, as well as San Juan Island in Washington, are excluded. Details regarding the data preprocessing procedures are provided in Supplementary Material A. We have considered the US administrative division into four geographic regions, namely, West, Midwest, South, and Northeast, encompassing the selected 48 states.
 
 The [**IHD_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/Data/IHD_data.Rdata) file contains the following objects:
-  - **_counts_**: contains the IHD mortality counts for each year. Supressed counts are denoted as NAs. It is a dataframe where the first column labeled **_GEOID_**, serves as the identifier for counties, and the subsequent columns correspond to the counties for each year during 1999-2021.
-  - **_pop_**: contains the population for each county in each year. It is a dataframe where the first column labeled **_GEOID_**, serves as the identifier for counties, and the subsequent columns correspond to the population for each year during 1999-2021.
+  - **_counts_**: contains the IHD mortality counts for each year. Suppressed counts are denoted as NAs. It is a dataframe where the first column labeled **_'GEOID'_**, serves as the identifier for counties, and the subsequent columns correspond to the counties for each year during 1999-2021.
+  - **_pop_**: contains the population for each county in each year. It is a dataframe where the first column labeled **_'GEOID'_**, serves as the identifier for counties, and the subsequent columns correspond to the population for each year during 1999-2021.
   - **_carto_**: cartography of the 3105 counties of US.
     - **_STATEFP_**: state level FIPS codes
     - **_GEOID_**: identifiers of the counties
