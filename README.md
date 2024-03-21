@@ -28,7 +28,8 @@ The [**IHD_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST_pattern
    
  Three .txt files are included with some additional information. 
  - [**Capitals.txt**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/Data/Capitals.txt): includes information on the capitals of the 48 states in the US. For each state, the capital city is listed under the column **_Capital_** and the column **_County_** contains the county where the capital is situated. The last two columns refer to the FIPS code of the state and the corresponding GEOID of the county.
-
+ - [**FP_StateNames.txt**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/Data/FP_StateNames.txt): comprises the FIPS code that corresponds to each state and the region where it is located each state.
+ - [**GEOID_vs_CountyNames.txt**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/Data/GEOID_vs_CountyNames.txt): comprises the GEOID of each county in the US.
 
  
 # Imputed data
