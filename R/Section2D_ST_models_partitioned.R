@@ -4,9 +4,9 @@ setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
 
 # Load packages
-library(spdep)
 library(INLA)
 library(bigDM)
+library(sf)
 
 
 # Load the data after imputing the missing counts
