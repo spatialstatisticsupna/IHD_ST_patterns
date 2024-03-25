@@ -6,7 +6,6 @@ setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 # Load packages
 library(INLA)
 library(sf)
-library(spdep)
 library(RColorBrewer)
 library(tmap)
 
