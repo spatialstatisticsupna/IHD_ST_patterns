@@ -20,7 +20,7 @@ The [**IHD_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST_pattern
   - **_pop_**: contains the population for each county in each year. It is a dataframe where the first column labeled **_GEOID_**, serves as the identifier for counties, and the subsequent columns correspond to the population for each year during 1999-2021.
   - **_carto_**: cartography of the 3105 counties of US.
     - **_STATEFP_**: state level FIPS codes
-    - **_GEOID_**: identifiers of the counties
+    - **_GEOID_**: Geographic Identifiers of the counties
     - **_NAME_**: names of the counties
     - **_STATEFP2_**: state level FIPS codes of the partition chosen for "divide and conquer" approach
     - **_State.Name_**: names of the states
