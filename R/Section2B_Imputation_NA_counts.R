@@ -22,7 +22,7 @@ T <- ncol(counts)-1
 # Compute the overall rates and expected cases for each year #
 ##############################################################
 O.total <- colSums(counts[, -1], na.rm=TRUE)
-Pop.total <- colSums(pop[, -1], na.rm=TRUE)
+Pop.total <- colSums(pop.NAs[, -1], na.rm=TRUE)
 
 Tab.rate <- data.frame(year=colnames(counts)[-1], O.total, Pop.total, 
                        Rate=O.total/Pop.total)
@@ -128,15 +128,6 @@ for(i in 2:ncol(counts)){
 ##################################################################################
 # Compute expected cases for the descriptive analysis and spatio-temporal models #
 ##################################################################################
-
-# Replace with NA the population if the count is missing 
-pop.NAs <- pop
-
-for (i in 2:ncol(counts)){
-  pos <- which(is.na(counts[i]))
-  pop.NAs[pos, i] <- NA
-}
-
 
 # Overall rate for all the years (without imputed data)
 O.total <- sum(colSums(counts[, -1], na.rm=TRUE))
