@@ -18,7 +18,7 @@ The datasets in [**IHD_data.Rdata**](https://github.com/spatialstatisticsupna/IH
 The [**IHD_data.Rdata**](https://github.com/spatialstatisticsupna/IHD_ST_patterns/blob/main/Data/IHD_data.Rdata) file contains the following objects:
   - **_counts_**: contains the IHD mortality counts for each year. Suppressed counts are denoted as NAs. It is a dataframe where the first column labeled **_GEOID_**, serves as the identifier for counties, and the subsequent columns correspond to the counties for each year during 1999-2021.
   - **_pop_**: contains the population for each county in each year. It is a dataframe where the first column labeled **_GEOID_**, serves as the identifier for counties, and the subsequent columns correspond to the population for each year during 1999-2021.
-  - - **_pop.NAs_**: contains the population for each county in each year. Population corresponding to suppressed counts is denoted as NA. It is a dataframe where the first column labeled **_GEOID_**, serves as the identifier for counties, and the subsequent columns correspond to the population for each year during 1999-2021.
+  - **_pop.NAs_**: contains the population for each county in each year. Population corresponding to suppressed counts is denoted as NA. It is a dataframe where the first column labeled **_GEOID_**, serves as the identifier for counties, and the subsequent columns correspond to the population for each year during 1999-2021.
   - **_carto_**: cartography of the 3105 counties of US.
     - **_STATEFP_**: state level FIPS codes
     - **_GEOID_**: Geographic Identifiers of the counties
