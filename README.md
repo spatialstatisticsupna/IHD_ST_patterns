@@ -63,5 +63,5 @@ This work has been supported by Project PID2020-113125RB-I00/ MCIN/ AEI/ 10.1303
 ![image](https://github.com/spatialstatisticsupna/Comparing-R-INLA-and-NIMBLE/blob/main/micin-aei.jpg)
 
 # References
-Urdangarin, A., Goicoa, T. , Congdon, P. and Ugarte, M.D. (2024). A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021). https://arxiv.org/abs/2411.14849. Submitted.
+Urdangarin, A., Goicoa, T. , Congdon, P. and Ugarte, M.D. (2024). A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021).*Spatial and Spatio-temporal Epidemiology*, **52**, 100700, 2025. doi: https://doi.org/10.1016/j.sste.2024.100700. 
 
