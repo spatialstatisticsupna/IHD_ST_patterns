@@ -1,5 +1,5 @@
 # A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021)
-This repository contains the R code to reproduce the analysis presented in the paper entitled "A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021)" (Urdangarin et al., 2024).
+This repository contains the R code to reproduce the analysis presented in the paper entitled "A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021)" (Urdangarin et al., 2025).
 
 ## Table of contents
 
@@ -63,5 +63,5 @@ This work has been supported by Project PID2020-113125RB-I00/ MCIN/ AEI/ 10.1303
 ![image](https://github.com/spatialstatisticsupna/Comparing-R-INLA-and-NIMBLE/blob/main/micin-aei.jpg)
 
 # References
-Urdangarin, A., Goicoa, T. , Congdon, P. and Ugarte, M.D. (2024). A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021).*Spatial and Spatio-temporal Epidemiology*, **52**, 100700, 2025. doi: https://doi.org/10.1016/j.sste.2024.100700. 
+Urdangarin, A., Goicoa, T. , Congdon, P. and Ugarte, M.D. (2025). A fast approach for analyzing spatio-temporal patterns in ischaemic heart disease mortality across US counties (1999-2021). *Spatial and Spatio-temporal Epidemiology*, **52**, 100700. doi: https://doi.org/10.1016/j.sste.2024.100700. 
 
